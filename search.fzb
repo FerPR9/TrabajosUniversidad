@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="Relay">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="SparkFun-Electromechanical-RELAY-SOLIDSTATE-PTH" modelIndex="85413725" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-relay-solidstate-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="2d3cbb853835749c51cc0d6e4bfd2c90" modelIndex="85413727" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/BASIC_Stamp_2e.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="4d5dcc6408079f54cbda4d35e4d0b8fa" modelIndex="85413728" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/BASIC_Stamp_2p24.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="5f7b51547fafb902305f5b3cbb81bb74" modelIndex="85413729" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/BASIC_Stamp_2p40.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-RELAY-PTH" modelIndex="85413730" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-relay-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="145b5412a0ffbe91a876166139419e15" modelIndex="85413732" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/BASIC_Stamp_2sx.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="144096d13637627703324c683e3211ec_40" modelIndex="85413733" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/OMRON_G5LE.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="daf5c6f3ee7e6da72522d1ea59fca803_65" modelIndex="85413735" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/CAR_RELE_NVF4-2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="f0d627984e1614e5c1c797471f529619" modelIndex="85413737" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/BASIC_Stamp_2pe.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Motor Shield rev3" modelIndex="85413738" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_Motor_Shield_rev3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="5cc9de9cdfa593d8e073514cde1c7c77" modelIndex="85413739" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/BASIC_Stamp_2px24.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="71d4db74a3a0ec43d9303ddffee7361b" modelIndex="85413740" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/DIP_Relay_D31A.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-RELAY-2-G5Q" modelIndex="85413741" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-relay-2-g5q.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="760832bc79fe1f34e99f420ad872a0b8" modelIndex="85413743" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/BASIC_Stamp_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-RELAY-PTH3" modelIndex="85413744" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-relay-pth3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="1099ABDE24_ST_relay" modelIndex="85413746" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/basic-relay.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-RELAY-PTH4" modelIndex="85413747" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-relay-pth4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-G3VM-61E1-" modelIndex="85413749" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-g3vm-61e1-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-RELAY-PTH2" modelIndex="85413751" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-electromechanical-relay-pth2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Power Screwshield 1.0a" modelIndex="85413753" path="C:/frizing/fritzing.0.9.3b.64.pc/fritzing.0.9.3b.64.pc/fritzing-parts/core/Power Screwshield 1.0a.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
